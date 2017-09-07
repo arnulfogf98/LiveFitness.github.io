@@ -1,0 +1,52 @@
+body {
+  background-image: url(http://mkfitness4life.com/wp-content/uploads/2015/09/79949dd851769dacc7b26e2fbe4e8c08-card-wide.jpg);
+}
+
+.titulo{
+
+  font-size: 40px;
+  font-style: italic;
+  font-weight: bolder;
+  color: #FFEBCD;
+}
+
+.x{
+  font-size: 30px;
+  text-align: left;
+  font-style: italic;
+  color: #FFEBCD;
+}
+
+.lista1{
+  font-size: 25;
+  color: #FFEBCD;
+  text-indent: 1cm;
+  font-style: italic;
+}
+
+.problema{
+  font-size: 20px;
+  font-weight: bold;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-style: normal;
+  background-color: #5F9EA0;
+  width: 60%;
+  margin-top:60px;
+  margin-left: 440px;
+  opacity: .8;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
